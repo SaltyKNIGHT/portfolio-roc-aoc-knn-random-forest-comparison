@@ -9,4 +9,4 @@ Requirement to run the code:
 5. Jupyter Notebook -> ```pip install notebook```
 6. python-math -> ```pip install python-math```
 
-If for some reason there is still error the problem maybe on the library, unnecessary library can be deleted in order to run the code properly.
+If for some reason there is still error the problem maybe on the library inside the code, unnecessary library can be deleted in order to run the code properly.
